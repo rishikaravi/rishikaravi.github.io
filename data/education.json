@@ -1,0 +1,25 @@
+{
+  "sectionTitle": "Education",
+  "education": [
+    {
+      "degree": "Master's in data science",
+      "institution": "University of Texas at Arlington",
+      "period": "Jan '23 - Dec '24",
+      "description": "Master's in data science",
+      "achievements": [],
+      "color": "#667eea",
+      "icon": "fas fa-graduation-cap"
+    },
+    {
+      "degree": "Bachelors in Electronics and Communication",
+      "institution": "KS Institute of Technology",
+      "period": "Aug '18 - Jul '22",
+      "description": "Bachelors in Electronics and Communication",
+      "achievements": [],
+      "color": "#764ba2",
+      "icon": "fas fa-graduation-cap"
+    }
+  ],
+  "certificationsTitle": "Certifications & Awards",
+  "certifications": []
+}

@@ -1,0 +1,13 @@
+{
+  "title": "RISHIKA RAVI KUKUTTALA - Professional Portfolio",
+  "description": "Professional portfolio showcasing my work and experience",
+  "author": "RISHIKA RAVI KUKUTTALA",
+  "keywords": "Predictive Modeling, Feature Engineering, Data Mining, Python, R, SQL, PySpark, TensorFlow, PyTorch, Scikit-learn, NLP, LLMs (LangChain, RAG), JIRA, Confluence, Bitbucket, ServiceNow, LangChain, RAG, FAISS, LLMs, AI, Data Pipelines, MySQL, Excel, Power BI, Forecasting, Statistical Analysis, ETL, AWS, PostgreSQL, CI/CD, Data Engineering, R Studio, Hypothesis Testing",
+  "ogImage": "/assets/images/og-image.jpg",
+  "favicon": "/assets/images/favicon.ico",
+  "theme": {
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#8b5cf6",
+    "accentColor": "#ec4899"
+  }
+}

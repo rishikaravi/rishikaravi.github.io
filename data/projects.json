@@ -1,0 +1,133 @@
+{
+  "sectionTitle": "Featured Projects",
+  "projects": [
+    {
+      "title": "UTA OIT ServiceNow Ticketing System, UTA",
+      "description": "Analyzed ticket patterns in OIT's ServiceNow system, optimizing support workflows and reducing \"bouncing tickets\" by 40% while improving resolution times for recurring issues by 20%.\nCollaborated with IT teams to streamline escalation paths, increasing client satisfaction by 12% and reducing unnecessary ticket escalations by 15%.\nImplemented predictive modeling for high-latency tickets, cutting average resolution time by 10% and fostering a more efficient support process.",
+      "color": "#667eea",
+      "icon": "fas fa-project-diagram",
+      "technologies": [
+        "SQL",
+        "Python",
+        "ServiceNow",
+        "MySQL"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "",
+        "demo": ""
+      },
+      "stats": {}
+    },
+    {
+      "title": "Arlington Accident Analysis, UTA",
+      "description": "Analyzed traffic at 200 intersections using 5 key grouping variables and computed accident frequencies over time with R Studio, generating insights to improve traffic management and safety.\nAggregated and analyzed traffic data to identify the top 10 high-traffic intersections and evaluate vehicle density trends, revealing a 15% increase in peak-hour traffic over the past year.\nCalculated correlation coefficients between vehicle counts and accident occurrences for a statistically significant relationship with a p-value of less than 0.05.",
+      "color": "#764ba2",
+      "icon": "fas fa-project-diagram",
+      "technologies": [
+        "R Studio",
+        "Python",
+        "Statistical Analysis",
+        "Hypothesis Testing"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "",
+        "demo": ""
+      },
+      "stats": {}
+    },
+    {
+      "title": "retail-data-analytics-project-python-sql-integration",
+      "description": "Portfolio project showcasing development capabilities",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/rishikaravi/retail-data-analytics-project-python-sql-integration",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "sql-data-analysis-and-visualization-projects",
+      "description": "Comprehensive project exploring software design patterns",
+      "color": "#4facfe",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/rishikaravi/sql-data-analysis-and-visualization-projects",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "customer-trends-data-analysis-sql-python-powerbi",
+      "description": "Interactive application built for continuous learning",
+      "color": "#667eea",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/rishikaravi/customer-trends-data-analysis-sql-python-powerbi",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "sentiment-analysis-webapp-sagemaker",
+      "description": "Practice repository for exploring advanced features",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/rishikaravi/sentiment-analysis-webapp-sagemaker",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    }
+  ]
+}

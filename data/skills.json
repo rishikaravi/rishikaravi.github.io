@@ -1,0 +1,26 @@
+{
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-code",
+      "color": "#667eea",
+      "skills": [
+        "Predictive Modeling",
+        "Feature Engineering",
+        "Data Mining"
+      ]
+    },
+    {
+      "category": "Tools & Frameworks",
+      "icon": "fas fa-tools",
+      "color": "#764ba2",
+      "skills": [
+        "JIRA",
+        "Confluence",
+        "Bitbucket",
+        "ServiceNow"
+      ]
+    }
+  ]
+}

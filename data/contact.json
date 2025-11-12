@@ -1,0 +1,66 @@
+{
+  "sectionTitle": "Get In Touch",
+  "subtitle": "Feel free to reach out for collaborations or just a friendly chat!",
+  "contactInfo": [
+    {
+      "type": "email",
+      "label": "Email",
+      "value": "rishika12ravi@gmail.com",
+      "href": "mailto:rishika12ravi@gmail.com",
+      "icon": "fas fa-envelope",
+      "color": "#667eea"
+    },
+    {
+      "type": "phone",
+      "label": "Phone",
+      "value": "(682) 970-0132",
+      "href": "tel:(682) 970-0132",
+      "icon": "fas fa-phone",
+      "color": "#764ba2"
+    }
+  ],
+  "form": {
+    "action": "https://formspree.io/f/your-form-id",
+    "method": "POST",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "label": "Name",
+        "placeholder": "Your Name",
+        "required": true,
+        "icon": "fas fa-user"
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "label": "Email",
+        "placeholder": "your@email.com",
+        "required": true,
+        "icon": "fas fa-envelope"
+      },
+      {
+        "type": "text",
+        "name": "subject",
+        "label": "Subject",
+        "placeholder": "Subject",
+        "required": true,
+        "icon": "fas fa-tag"
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "label": "Message",
+        "placeholder": "Your message...",
+        "required": true,
+        "icon": "fas fa-comment",
+        "rows": 5
+      }
+    ],
+    "submitIcon": "fas fa-paper-plane",
+    "submitText": "Send Message",
+    "successMessage": "Thank you! Your message has been sent successfully.",
+    "errorMessage": "Oops! Something went wrong. Please try again."
+  },
+  "socialMedia": []
+}

@@ -1,0 +1,66 @@
+{
+  "sectionTitle": "Work Experience",
+  "experiences": [
+    {
+      "title": "Research Assistant",
+      "company": "University of Texas at Arlington",
+      "location": "Arlington, TX",
+      "period": "Feb '25 - Present",
+      "type": "Full-time",
+      "color": "#667eea",
+      "icon": "fas fa-briefcase",
+      "description": "Engineered a modular Al-powered document processing pipeline using LangChain, FAISS, and lightweight LLMs, improving document retrieval accuracy by 40%.\nAutomated data ingestion, text extraction, semantic embeddings, and context-aware querying, reducing research workflow time by 50%.\nImplemented RAG architecture for natural language questions answering across large unstructured document sets.\nOptimized vector search and inference latency, improving real-time retrieval performance and scalability for multimodal Al use cases.\nDeveloped Langflow dashboards for visualizing LLM responses, enabling transparent debugging and workflow optimization.",
+      "responsibilities": [],
+      "technologies": [
+        "Python",
+        "LangChain",
+        "RAG",
+        "FAISS",
+        "LLMs",
+        "NLP",
+        "AI",
+        "Data Pipelines"
+      ]
+    },
+    {
+      "title": "Jr Data Analyst",
+      "company": "Smartroniverse",
+      "location": "Bengaluru, India",
+      "period": "Oct '21 - Jul '22",
+      "type": "Full-time",
+      "color": "#764ba2",
+      "icon": "fas fa-briefcase",
+      "description": "Built ETL data pipelines for structured and unstructured sources using Python (Pandas, NumPy) and SQL, enhancing data integration and accuracy.\nDesigned Power BI dashboards and interactive Excel reports to visualize KPIs, operational metrics, and sales trends, enabling data-driven decision-making.\nApplied forecasting models and regression analysis to predict business growth patterns, achieving a 15% improvement in demand forecasting accuracy.\nCollaborated cross-functionally with finance and operations teams to implement data quality controls and improve reporting timeliness.",
+      "responsibilities": [],
+      "technologies": [
+        "Python",
+        "SQL",
+        "MySQL",
+        "Excel",
+        "Power BI",
+        "Forecasting",
+        "Statistical Analysis",
+        "ETL"
+      ]
+    },
+    {
+      "title": "Analyst",
+      "company": "Bharat Electronics Limited",
+      "location": "Bengaluru, India",
+      "period": "Oct '20 - Dec '20",
+      "type": "Full-time",
+      "color": "#f093fb",
+      "icon": "fas fa-briefcase",
+      "description": "Analyzed UAV telemetry and operational data using Python and SQL, improving performance insights by 25%.\nIntegrated AWS-based data pipelines into CI/CD workflows, increasing reporting reliability and speed by 40%.\nAutomated data workflows and reporting processes, reducing manual effort by 30%.\nEnhanced data accessibility through PostgreSQL and AWS integration, supporting faster design and operational decisions.",
+      "responsibilities": [],
+      "technologies": [
+        "Python",
+        "SQL",
+        "AWS",
+        "PostgreSQL",
+        "CI/CD",
+        "Data Engineering"
+      ]
+    }
+  ]
+}
